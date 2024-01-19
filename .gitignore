@@ -1,0 +1,7 @@
+# Pythin chace
+__pycache__
+.idea
+# Python files
+main_с.py
+# Other files
+ffmpeg.exe
